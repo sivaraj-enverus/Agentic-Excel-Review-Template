@@ -243,8 +243,13 @@ python -m pytest tests/test_review_assistant.py -v
 
 ## 📚 Documentation
 
+### Core Documentation
+- **`docs/AGENTIC_AI_ARCHITECTURE.md`** - **Comprehensive explanation of Agentic AI architecture and implementation**
+- **`docs/AGENTIC_FLOW_DIAGRAMS.md`** - **Visual flow diagrams and execution flows**
+- `docs/Project_Structure.md` - Module organization and structure
 - `docs/LM_STUDIO_SETUP.md` - Detailed LM Studio setup guide
-- `docs/Project_Structure.md` - Architecture overview
+
+### Specialized Guides
 - `docs/SOP_Indexer_README.md` - RAG indexing guide
 - `docs/CHAT_GUIDE.md` - Using the Streamlit chat interface
 
