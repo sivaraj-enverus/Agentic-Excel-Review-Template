@@ -243,9 +243,12 @@ python -m pytest tests/test_review_assistant.py -v
 
 ## 📚 Documentation
 
+### 🎯 Start Here
+- **`docs/AGENTIC_QUICK_REFERENCE.md`** - **⚡ Quick reference guide with examples (START HERE!)**
+
 ### Core Documentation
 - **`docs/AGENTIC_AI_ARCHITECTURE.md`** - **Comprehensive explanation of Agentic AI architecture and implementation**
-- **`docs/AGENTIC_FLOW_DIAGRAMS.md`** - **Visual flow diagrams and execution flows**
+- **`docs/AGENTIC_FLOW_DIAGRAMS.md`** - **Visual flow diagrams and execution flows with Mermaid**
 - `docs/Project_Structure.md` - Module organization and structure
 - `docs/LM_STUDIO_SETUP.md` - Detailed LM Studio setup guide
 
